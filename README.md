@@ -40,11 +40,10 @@ This may have implications for genomics as a directed graph network where genes 
 *"Brain states are to ideas as epigenetics are to genes."*
 
 Nature : Nurture  
-::  
+: :  
 Genes : Epigenetics  
-::  
-Ideas : Brains
+: :  
+Ideas : Brains  
 
-
-
+  
 Am I wrong?
