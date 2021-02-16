@@ -40,7 +40,7 @@ For example, the idea that *cats aren't dogs* can be identical between people, b
 #### Analogies
 My 2011 understanding of multiple realizability may have implications for biology, by conceiving of genomics and epigenetics as a high-dimensional [*directed graph*](https://reference.wolfram.com/language/ref/DirectedGraph.html) or network. To get there, I draw these analogies:
 
-Ideas : Brains
+Ideas : Brains  
 : :  
 Nature : Nurture  
 : :  
@@ -51,7 +51,7 @@ The predictive power of these analogies is unclear, but here are some suggestion
 
 In the big picture, it should be intuitive now that the environment, be the biosphere, the brain, or the epigenome, is very high in relative complexity. Brains are more complex than thoughts, nurture is more complicated than nature, and epigenetic circumstances are a maelstrom compared to the compressed precision of a genome.
 
-Out of convenience, let's call the left sides of the diagram below the *reactants* sides, where there are inward pointing arrows. Let's call the right sides the *products* sides, where the arrows point outward. Here I paste the same diagram again, but this time with a generalized key that corresponds to epigenetic circumstances (*b*) and genes (*p*):
+Out of convenience, let's call the left sides of the diagram below the *reactants* sides, where there are inward pointing arrows. Let's call the right sides the *products* sides, where the arrows point outward. Here I paste the same diagram again, but this time with a generalized key that corresponds to epigenetic circumstances (*state*) and genes (*bit*):
 
 
 ![generalized-multiple-realizability-diagram](https://raw.githubusercontent.com/SpaceGold/multiple-realizability/main/multiple-realizability-diagram-generalized2.png)
