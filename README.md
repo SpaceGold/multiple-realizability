@@ -7,7 +7,7 @@ February 2021
 #### Introduction
 At Berkeley in 2011, I studied Putnam and multiple realizability. In order to try to understand it, I drew this asymmetrical diagram:
 
-[diagram](SpaceGold.github.com/multiple-realizability/multiple-realizability-diagram.png)
+[diagram](https://github.com/SpaceGold/multiple-realizability/blob/main/multiple-realizability-diagram.png?raw=true)
 
 Each *b* and *p* are distinct. For *b*, imagine distinct neural assemblies, or even different people’s brains. For *p*, imagine different ideas, memes, or, more technically, propositions. These are semiotic units, like meanings or informational bits.
 
