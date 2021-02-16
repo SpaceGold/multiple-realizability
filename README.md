@@ -11,7 +11,7 @@ As a master's in biotechnology student with a special interest in novel forms of
 #### Background
 At Berkeley in 2011, I studied the philosopher Hilary Putnam and the Philosophy of Mind concept, [*multiple realizability*](https://www.wikiwand.com/en/Multiple_realizability). In order to try to understand it, I drew this asymmetrical diagram:
 
-![phil-of-mind-multiple-realizability-diagram](https://raw.githubusercontent.com/SpaceGold/multiple-realizability/main/multiple-realizability-diagram.png)
+![phil-of-mind-multiple-realizability-diagram](https://raw.githubusercontent.com/SpaceGold/multiple-realizability/main/multiple-realizability-diagram2.png)
 
 For *b*, imagine distinct neural assemblies, or even different people’s brains. For *p*, imagine different ideas, memes, or, more technically, propositions. These are semiotic units, like meanings or informational bits. Note that each *b* and *p* node is distinct; you may imagine each as *b<sub>1</sub>*, *b<sub>2</sub>*, *p<sub>1</sub>*, etc.
 
@@ -54,7 +54,7 @@ In the big picture, it should be intuitive now that the environment, be the bios
 Out of convenience, let's call the left sides of the diagram below the *reactants* sides, where there are inward pointing arrows. Let's call the right sides the *products* sides, where the arrows point outward. Here I paste the same diagram again, but this time with a generalized key that corresponds to epigenetic circumstances (*b*) and genes (*p*):
 
 
-![generalized-multiple-realizability-diagram](https://raw.githubusercontent.com/SpaceGold/multiple-realizability/main/multiple-realizability-diagram-generalized.png)
+![generalized-multiple-realizability-diagram](https://raw.githubusercontent.com/SpaceGold/multiple-realizability/main/multiple-realizability-diagram-generalized2.png)
 
 
 Starting with the product side of the left diagram, we see that a given gene *p* may entail multiple downstream epigenetic states *b*. But the reverse is not true, the right diagram predicts: a given epigenetic circumstance may not result in more than one gene. This is probably because a given epigenetic circumstance is incalculably high in informational complexity, high in dimensions, and therefore idiosyncratic to a single moment in time and a single locus in a specific cell.  
