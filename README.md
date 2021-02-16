@@ -19,18 +19,32 @@ But:
 * Distinct ideas cannot entail a common brain state
 * Nor can a single brain state entail distinct ideas
 
-In conclusion, Brain states (*b*) are:
+In conclusion, brain states (*b*) are:
 * More numerous
 * Redundant
 * Overlapping
 * Constantly changing
 * Never identical
 
-In contrast, Ideas (*p*):
+In contrast, ideas (*p*):
 * Have multiple realizability
 * Can be identical
 * Can be persistent
 
-The idea that *cats aren't dogs*, for example, can be identical between people, but the brain states that hold that thought cannot be identical between people, let alone within one brain between moments.
+For example idea that *cats aren't dogs* can be identical between people, but the brain states that hold that thought cannot be identical between people. Plus, even if they keep thinking this thought, one person's brain states from one moment to the next won't be identical.
 
 This may have implications for genomics as a directed graph network where genes are instantiated asymmetrically within distinct cellular or epigenetic environments.
+
+#### Analogies
+
+*"Brain states are to ideas as epigenetics are to genes."*
+
+Nature : Nurture  
+::  
+Genes : Epigenetics  
+::  
+Ideas : Brains
+
+
+
+Am I wrong?
